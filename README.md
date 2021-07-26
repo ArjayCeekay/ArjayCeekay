@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArjayCeekay
-- 👀 I’m interested in Rust, Linux, Cancer, Sequencing
+- 👀 I’m interested in Rust, Linux, Pipelines, Cancer, Sequencing, Data visualization
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: messages or e-mail, hint: username + gmail
